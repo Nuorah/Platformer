@@ -1,0 +1,32 @@
+Structure : 
+
+class Stuff 
+	
+	variables :
+
+		(x, y)
+		image
+		
+	class MovingStuff 
+		
+		variables :
+
+			(dx, dy)
+
+		class Characters 
+			class Guy
+			class Ennemies
+			class Projectiles
+
+	class ImmobileStuff 
+
+		class Decor 
+		class Collectables
+		class Platforms 
+		
+		
+
+class Level :
+
+
+
